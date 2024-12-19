@@ -1,5 +1,5 @@
 src-git packages https://github.com/gongsaxi/packages.git
-src-git luci https://github.com/gongsaxi/luci.git:openwrt 1806
+src-git luci https://github.com/gongsaxi/luci.git
 src-git routing https://github.com/gongsaxi/routing.git
 src-git telephony https://github.com/gongsaxi/telephony.git
 #src-git video https://github.com/openwrt/video.git
